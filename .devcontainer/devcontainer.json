@@ -3,7 +3,8 @@
 {
 	"name": "Playfound - C# (.NET)",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0-bookworm",
+	// "image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0-bookworm",
+	"dockerComposeFile": "compose.yaml",
 	"features": {
 		"ghcr.io/nikiforovall/devcontainer-features/dotnet-aspire:1": {}
 	}
