@@ -1,3 +1,4 @@
 services:
   playground-csharp:
     container_name: 'playground-csharp'
+    hostname: 'csharp'
