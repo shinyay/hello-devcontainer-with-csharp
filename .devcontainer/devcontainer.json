@@ -32,6 +32,12 @@
 				"ms-dotnettools.csharp",
 				"ms-dotnettools.csdevkit"
 			]
+		},
+		"codespaces": {
+			"extensions": [
+				"ms-dotnettools.csharp",
+				"ms-dotnettools.csdevkit"
+			]
 		}
 	}
 
