@@ -5,6 +5,7 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	// "image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0-bookworm",
 	"dockerComposeFile": "compose.yaml",
+	"service": "playground-csharp",
 	"features": {
 		"ghcr.io/nikiforovall/devcontainer-features/dotnet-aspire:1": {}
 	}
