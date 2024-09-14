@@ -8,3 +8,7 @@ services:
     restart: 'always'
     working_dir: '/workspaces'
     tty: true
+    volumes:
+      - type: bind
+        source: ../workspace
+        target: /workspaces
