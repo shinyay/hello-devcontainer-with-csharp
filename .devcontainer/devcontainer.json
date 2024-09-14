@@ -31,7 +31,24 @@
 			"extensions": [
 				"ms-dotnettools.csharp",
 				"ms-dotnettools.csdevkit"
-			]
+			],
+			"settings": {
+				"terminal.integrated.defaultProfile.linux": "zsh",
+				"terminal.integrated.profiles.linux": {
+					"zsh": {
+						"path": "/usr/bin/zsh",
+						"icon": "terminal-bash",
+						"args": []
+					}
+				},
+				"editor.formatOnSave": true,
+				"workbench.colorCustomizations": {
+					"titleBar.activeBackground": "#19549C",
+					"titleBar.activeForeground": "#ffffff",
+					"activityBar.background": "#02A7E3",
+					"activityBar.foreground": "#ffffff"
+				}
+			}
 		},
 		"codespaces": {
 			"extensions": [
