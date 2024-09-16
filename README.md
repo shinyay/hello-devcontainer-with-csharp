@@ -50,6 +50,12 @@ HelloBlazor
     └── favicon.png
 ```
 
+#### Challenge Copilot 1
+
+```razor
+@* Display current dotnet runtime version *@
+```
+
 ## Features
 
 - feature:1
