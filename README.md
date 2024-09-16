@@ -12,6 +12,43 @@
 dotnet new blazor -n HelloBlazor
 ```
 
+The following files are created:
+
+```shell
+HelloBlazor
+├── appsettings.Development.json
+├── appsettings.json
+├── Components
+│   ├── App.razor
+│   ├── _Imports.razor
+│   ├── Layout
+│   │   ├── MainLayout.razor
+│   │   ├── MainLayout.razor.css
+│   │   ├── NavMenu.razor
+│   │   └── NavMenu.razor.css
+│   ├── Pages
+│   │   ├── Counter.razor
+│   │   ├── Error.razor
+│   │   ├── Home.razor
+│   │   └── Weather.razor
+│   └── Routes.razor
+├── HelloBlazor.csproj
+├── obj
+│   ├── HelloBlazor.csproj.nuget.dgspec.json
+│   ├── HelloBlazor.csproj.nuget.g.props
+│   ├── HelloBlazor.csproj.nuget.g.targets
+│   ├── project.assets.json
+│   └── project.nuget.cache
+├── Program.cs
+├── Properties
+│   └── launchSettings.json
+└── wwwroot
+    ├── app.css
+    ├── bootstrap
+    │   ├── bootstrap.min.css
+    │   └── bootstrap.min.css.map
+    └── favicon.png
+```
 
 ## Features
 
