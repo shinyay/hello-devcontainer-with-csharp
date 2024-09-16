@@ -9,7 +9,7 @@
 #### Create a template for Blazor App
 
 ```shell
-dotnet new blazor
+dotnet new blazor -n HelloBlazor
 ```
 
 
