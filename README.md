@@ -19,19 +19,19 @@ HelloBlazor
 ├── appsettings.Development.json
 ├── appsettings.json
 ├── Components
-│   ├── App.razor
+│   ├── App.razor -----------------> Root Component
 │   ├── _Imports.razor
-│   ├── Layout
+│   ├── Layout ----------------------> Layout Components
 │   │   ├── MainLayout.razor
 │   │   ├── MainLayout.razor.css
 │   │   ├── NavMenu.razor
 │   │   └── NavMenu.razor.css
-│   ├── Pages
+│   ├── Pages ----------------------> Page Components
 │   │   ├── Counter.razor
 │   │   ├── Error.razor
 │   │   ├── Home.razor
 │   │   └── Weather.razor
-│   └── Routes.razor
+│   └── Routes.razor -----------------> Routing Configuration
 ├── HelloBlazor.csproj
 ├── obj
 │   ├── HelloBlazor.csproj.nuget.dgspec.json
