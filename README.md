@@ -32,7 +32,7 @@ HelloBlazor
 │   │   ├── Home.razor
 │   │   └── Weather.razor
 │   └── Routes.razor -----------------> Routing Configuration
-├── HelloBlazor.csproj
+├── HelloBlazor.csproj --------------> Project File
 ├── obj
 │   ├── HelloBlazor.csproj.nuget.dgspec.json
 │   ├── HelloBlazor.csproj.nuget.g.props
@@ -41,7 +41,7 @@ HelloBlazor
 │   └── project.nuget.cache
 ├── Program.cs
 ├── Properties
-│   └── launchSettings.json
+│   └── launchSettings.json ---------> Launch Settings
 └── wwwroot
     ├── app.css
     ├── bootstrap
