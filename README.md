@@ -2,7 +2,16 @@
 
 ## Description
 
-## Demo
+## Demo/Tutorial
+
+### Blazor App
+
+#### Create a template for Blazor App
+
+```shell
+dotnet new blazor
+```
+
 
 ## Features
 
