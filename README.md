@@ -56,6 +56,16 @@ HelloBlazor
 @* Display current dotnet runtime version *@
 ```
 
+#### Challenge Copilot 2
+
+Open `Pages/Counter.razor`.
+
+And open Inline Copilot Chat with `Ctrl + i` and ask the following question:
+
+```plaintext
+/explain Explain what the code does.
+```
+
 ## Features
 
 - feature:1
