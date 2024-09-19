@@ -1,5 +1,7 @@
 # Hello Dev Containers with C#
 
+Getting started with C# development in a dev container.
+
 ## Description
 
 ## Demo/Tutorial
