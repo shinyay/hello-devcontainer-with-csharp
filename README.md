@@ -4,6 +4,14 @@ Getting started with C# development in a dev container.
 
 ## Description
 
+### Dec Container
+
+#### Docker Configuration
+
+#### Docker Compose Configuration
+
+#### Dev Container Configuration
+
 ## Demo/Tutorial
 
 ## Features
