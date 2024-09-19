@@ -8,6 +8,10 @@ Getting started with C# development in a dev container.
 
 #### Docker Configuration
 
+- Base Image
+  - `mcr.microsoft.com/devcontainers/dotnet:1-8.0-bookworm`
+    - Image: mcr.microsoft.com/devcontainers/dotnet ([source](https://github.com/devcontainers/images/tree/main/src/dotnet))
+
 #### Docker Compose Configuration
 
 #### Dev Container Configuration
