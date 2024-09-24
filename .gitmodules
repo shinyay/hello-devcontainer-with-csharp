@@ -1,0 +1,3 @@
+[submodule "workspace/240926-workshop"]
+	path = workspace/240926-workshop
+	url = https://github.com/shinyay/workshop-for-aspnet-mvc
