@@ -4,7 +4,15 @@ Getting started with C# development in a dev container.
 
 ## Description
 
-### Dec Container
+The following describes the structure of this repository.
+
+```
+.
+├── README.md # This file
+└── workspace # The workspace for the dev container
+```
+
+### Dev Container
 
 #### Docker Configuration
 
